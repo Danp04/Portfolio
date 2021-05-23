@@ -7,7 +7,7 @@ nav_order: 1
 
 
 ## Markdown
-   :arrow_forward: [TechComm Tools for Newbies](danp04.github.io)
+   ▶️ [TechComm Tools for Newbies](https://danp04.github.io)
 
 
 
