@@ -9,4 +9,4 @@ has_children: true
 
 {: .no_toc}
 
-In this section you can find pieces of content that I produced in three different tools: Markdown, MadCap Software, and Oxygen XML Editor.
+In this section you can find pieces of content that I produced in three different tools: Markdown and MadCap Software.
